@@ -25,7 +25,7 @@ A program/script which checks if a given sentence is a pangram or not.
 
 ## Authors
 
-* **May von Wittken** - *Initial work* - [PurpleBooth](https://github.com/Maavw)
+* **May von Wittken** - *Initial work* - [Maavw](https://github.com/Maavw)
 
 See also the list of [contributors](https://github.com/Maavw/coding-challenge-home24/contributors) who participated in this project.
 
