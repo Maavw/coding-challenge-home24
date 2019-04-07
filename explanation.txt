@@ -1,0 +1,6 @@
+How I solved the task:
+
+To solve this task I started to choose the programming language PHP because I've already seen it in the past and it is easy to start with.
+First, I figured out that I need a program wich can compare all letters from the input with the alphabet to determine if it is a pangram or not.
+Therefore I created a template wich contains the alphabet to compare against the input, wich is separated in single characters. I found a function from PHP on the web, wich compares the values of two arrays and returns the missing letters.
+If there are no missing letters the output should show that the input is a pangram.
