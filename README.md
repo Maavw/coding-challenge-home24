@@ -31,7 +31,7 @@ See also the list of [contributors](https://github.com/Maavw/coding-challenge-ho
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](LICENSE)
 
 
 Template from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
