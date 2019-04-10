@@ -1,0 +1,3 @@
+How I solved the task:
+
+First of all I needed to get the content of the homepage. Then I realised that I get the content as HTML. To avoid the tags to be counted as words, I filtered them out. I did the that so with the special characters and had to works with regex to remove the stopwords. After that i split the words of the content into each element to start counting them by their appearance. Finally I wrote a simple loop to display the top 5 mentioned keywords as a table. To fix the problem where the umlauts were'nt display correctly I found a function to decode HTML entities.
